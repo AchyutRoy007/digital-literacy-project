@@ -4,6 +4,7 @@
 
 **Name:** Achyut Roy  
 **Registration Number:** 25BAI10962
+
 **Course:** CSE0001 (Digital Literacy)  
 **Role:** Student Digital Ambassador  
 
