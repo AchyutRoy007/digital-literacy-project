@@ -54,7 +54,7 @@ In this task, I explored practical digital tools used for technical skill develo
 * Designed a 5-question "Digital Literacy Awareness Quiz" using Google Forms, incorporating both multiple-choice and short-answer formats.
 * Linked the Google Form to a Google Sheet to automatically capture and organize incoming response data.
 * Uploaded proof of the completed coding challenge and form/sheet screenshots to the `task-3-platforms/` folder.
-* **Live Quiz Link:** https://forms.gle/DdEkLaqycYv68VUt8
+* **Live Quiz Link:** 
 
 ---
 
