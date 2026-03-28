@@ -1,94 +1,160 @@
-# digital-literacy-project
+# Digital Literacy Project
 
-# CSE0001 - Digital Literacy Project 
+**Course:** CSE0001 – Digital Literacy 
 
-**Name:** Achyut Roy  
-**Registration Number:** 25BAI10962
+## Student Details 
+- Name: ACHYUT ROY
+- Registration number: 25BAI10962
+- CSE [AI&ML]: 1st year
 
-**Course:** CSE0001 (Digital Literacy)  
-**Role:** Student Digital Ambassador  
+## 📌 Project Overview
+This project focuses on building a **Digital Literacy Portfolio** to develop essential skills required in today’s digital world. It covers creating a professional online presence, understanding digital tools, maintaining proper communication, and ensuring cyber safety.  
 
-## Project Overview
-
----
-
-## Task 1: Digital Literacy Awareness Infographic
-In this task, I designed a one-page visual infographic to explain the core concepts of digital literacy to my peers in a clear, engaging format.
-
-**Tools/Platforms Used:**
-* Canva
-
-**Tasks Performed:**
-* Created a professional, modern layout using Canva's design tools.
-* Defined what digital literacy means for modern students.
-* Summarized key rules for professional email etiquette.
-* Exported the final design and uploaded the high-quality image to the `task-1-presentation/` folder.
+The project is divided into five modules (tasks), each addressing a key area of digital literacy such as awareness, portfolio building, collaboration tools, communication etiquette, and cybercrime prevention.  
 
 ---
 
-## Task 2: Student Digital Portfolio
-In this task, I established a foundational professional digital footprint by setting up and optimizing profiles across key networking and developer platforms.
+## 🧾 Introduction
+As a Student Digital Ambassador, this project is undertaken with the aim of promoting digital literacy and responsible online behaviour among fellow students. In the present technology-driven environment, individuals frequently interact with various digital platforms; however, a comprehensive understanding of their effective, ethical, and secure usage is often lacking.  
 
-**Tools/Platforms Used:**
-* GitHub
-* LinkedIn
-* HackerRank
+This project is centred on the development of a comprehensive Digital Literacy Portfolio that demonstrates key competencies such as building a professional online presence, utilising digital tools efficiently, and maintaining proper online communication practices.  
 
-**Tasks Performed:**
-* Created a dedicated GitHub account and initialized this public repository with a structured README.
-* Set up a professional LinkedIn profile, specifically updating the Education section with my current B.Tech degree details.
-* Created a HackerRank profile to begin building a portfolio of competitive programming and problem-solving skills.
-* Captured screenshots of all active profiles and uploaded them to the `task-2-portfolio/` folder.
+The project is organised into five distinct tasks, each addressing a crucial aspect of digital literacy, including awareness creation, portfolio development, platform exploration, email etiquette, and cybercrime prevention. Through this initiative, the project aims to enhance digital awareness and prepare students for academic and professional success.  
 
 ---
 
-## Task 3: Coding & Collaboration Platforms
-In this task, I explored practical digital tools used for technical skill development and cloud-based data collection.
+## 📚 Module / Task Summaries
 
-**Tools/Platforms Used:**
-* HackerRank
-* Google Forms
-* Google Sheets
+### 🎨 Task 1: Digital Literacy Awareness Infographic
+- Created using **Canva**  
+- Covered:
+  - Meaning of digital literacy  
+  - Useful tools (Google Docs, MS Word, GitHub)  
+  - Online safety tips (passwords, phishing, 2FA)  
+- Learned how to present information clearly and visually  
 
-**Tasks Performed:**
-* Successfully completed a beginner-level programming challenge on HackerRank to familiarize myself with online coding environments.
-* Designed a 5-question "Digital Literacy Awareness Quiz" using Google Forms, incorporating both multiple-choice and short-answer formats.
-* Linked the Google Form to a Google Sheet to automatically capture and organize incoming response data.
-* Uploaded proof of the completed coding challenge and form/sheet screenshots to the `task-3-platforms/` folder.
-* **Live Quiz Link:** 
+🔗 Link: https://www.canva.com/design/DAHFEomyWWs/nm_kvLKKwVNXNwtNy2g4xQ/view?utm_content=DAHFEomyWWs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h81424a1a18
 
 ---
 
-## Task 4: Professional Email & Etiquette Guide
-In this task, I demonstrated proper digital communication standards by drafting formal correspondence and establishing guidelines for responsible social media behavior.
+### 🌐 Task 2: Student Digital Portfolio
+- Created profiles on:
+  - GitHub (projects & coding)
+  - LinkedIn (professional networking)
+  - HackerRank (academic learning)  
+- Plan to use these platforms for:
+  - Skill development  
+  - Networking  
+  - Career growth  
 
-**Tools/Platforms Used:**
-* Text Editor
-* GitHub
+🔗 GitHub: https://github.com/AchyutRoy007
 
-**Tasks Performed:**
-* Drafted a formal, well-structured email to a professor requesting a deadline extension for an assignment.
-* Drafted a professional inquiry email to a corporate coordinator regarding summer internship opportunities.
-* Created a comprehensive "10-Point Social Media Do's and Don'ts" checklist tailored for college students.
-* Saved all drafts as text documents and uploaded them to the `task-4-email-etiquette/` folder.
-
----
-
-## Task 5: Cybercrime Awareness & Prevention
-In this task, I researched digital threats and created educational resources to help peers recognize and prevent cyber-attacks.
-
-**Tools/Platforms Used:**
-* Text Editor
-* GitHub
-
-**Tasks Performed:**
-* Authored a detailed case study analyzing the mechanics of Phishing attacks, exploring how they happen step-by-step and who is targeted.
-* Developed an 8-point "Stay Safe Online" prevention checklist featuring actionable security tips.
-* Included specific guidelines for safe UPI/financial transactions and listed official national cybercrime reporting channels.
-* Uploaded the case study and checklist documents to the `task-5-cybercrime/` folder.
+🔗 LinkedIn:
+https://www.linkedin.com/in/achyut-roy-668b0a360/
 
 ---
 
-## Important Links & Deliverables
-* **Digital Literacy Awareness Quiz:** 
-* **Final Project Report:** The comprehensive reflection document covering all five tasks is located in the `report/` folder as a `.docx` / `.pdf` file.
+### 💻 Task 3: Coding & Collaboration Platforms
+
+---
+
+## Digital Literacy Awareness Quiz
+[Click here to test your digital awareness:] https://docs.google.com/forms/d/1JRI30XFJXLSgvqOz0L4FCYY8aughaEaFTIXxY4EQqTI/edit
+---
+
+- Solved beginner problem on HackerRank  
+- Learned basic Python (input, output, functions)  
+- Created a Google Form quiz  
+- Linked responses to Google Sheets  
+  
+**Learning Outcome:**
+- Improved coding basics  
+- Learned data collection and collaboration tools  
+
+---
+
+### 📧 Task 4: Professional Email & Etiquette
+- Real-life mistake: missed important update due to muted WhatsApp group  
+- Result:
+  - Wrong submission format  
+  - Stress and marks deduction  
+
+**Lesson Learned:**
+- Check important messages regularly  
+- Maintain proper digital communication habits  
+
+---
+
+### 🔐 Task 5: Cybercrime Awareness
+- Learned about:
+  - Phishing scams  
+  - Fake internship offers  
+  - UPI fraud  
+- Key takeaway:
+  - Small mistakes can lead to big losses  
+
+**Safety Practices:**
+- Verify links and messages  
+- Never share OTP/PIN  
+- Avoid unknown QR codes  
+- Use strong passwords & 2FA  
+
+📞 Report Cybercrime:  
+- https://cybercrime.gov.in  
+- Helpline: **1930**  
+
+---
+
+## ## 🛠️ Tools & Platforms Used
+
+The following tools and platforms were used throughout the project to complete various tasks and enhance digital literacy skills:
+
+| Tool / Platform | Purpose | How It Was Used in Project |
+|----------------|--------|----------------------------|
+| [Canva](https://canva.com) | Presentation & Design | Created digital literacy infographic |
+| [GitHub](https://github.com) | Project Hosting & Version Control | Hosted repository and managed project files |
+| [LinkedIn](https://linkedin.com) | Professional Networking | Built professional profile for career growth |
+| [HackerRank](https://www.hackerrank.com) | Coding Practice | Solved beginner problem to understand programming basics |
+| [Google Forms](https://forms.google.com) | Data Collection | Created digital literacy awareness quiz |
+| [Google Sheets](https://sheets.google.com) | Data Analysis | Collected and viewed quiz responses |
+| [WhatsApp](https://www.whatsapp.com) | Communication | Used for group communication (case study example) |
+| [Cyber Crime Portal](https://cybercrime.gov.in) | Reporting Cybercrime | Referenced for reporting online fraud cases |
+| Helpline 1930 | Emergency Support | Included as cybercrime reporting contact |
+---
+
+## 📈 Future Plan
+Over the next four years, I plan to:
+- Improve coding skills through regular practice  
+- Upload more projects on GitHub  
+- Build a strong LinkedIn network  
+- Explore research through ResearchGate  
+- Stay updated with cybersecurity practices  
+
+---
+
+## 🧾 Conclusion
+This project, undertaken as a Student Digital Ambassador, has been an insightful journey into digital literacy. It helped in understanding how to use digital tools effectively, communicate professionally, and stay safe online.  
+
+It also highlighted the importance of responsible behaviour in digital spaces and spreading awareness among others. Overall, this project has prepared me for academic and professional growth in a digital environment.  
+
+---
+
+## 📖 References
+- https://canva.com  
+- https://github.com  
+- https://linkedin.com  
+- https://hackerrank.com  
+- https://codechef.com  
+- https://forms.google.com  
+- https://cybercrime.gov.in  
+- Cyber Crime Helpline: **1930**  
+
+---
+
+## Student Declaration
+
+I hereby declare that this Digital Literacy Project is my original work. All tasks, write-ups, and materials included in this repository have been completed by me.  
+
+Any external resources used have been referred to only for understanding purposes and are properly acknowledged where applicable. This submission complies with the academic integrity guidelines of the course.
+
+---
